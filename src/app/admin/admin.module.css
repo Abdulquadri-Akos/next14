@@ -1,0 +1,17 @@
+.container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.btn {
+  padding: 20px;
+  width: 10%;
+  cursor: pointer;
+  background-color: var(--btn);
+  color: var(--textColor);
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
